@@ -9,6 +9,7 @@ We map cell-type-specific genomic stress across major neural populations includi
 ## Visualizations
 ### Cell Type Clusters
 <img src="./plots/AD00201_human_celltypes.png" width="80%" alt="Cell Type Clusters">
+
 ### DDR Gene Expression
 <img src="./plots/AD00201_human_genes.png" width="80%" alt="DDR Gene Expression">
 
