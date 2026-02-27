@@ -7,9 +7,9 @@ We map cell-type-specific genomic stress across major neural populations includi
 * **Key Markers:** ATM, TP53, CHEK2, BRCA1, PARP1, CDKN1A, CDKN2A, RELA, ABL1.
 
 ## Visualizations
-| Cell Type Clusters | DDR Gene Expression |
-|---|---|
+| Cell Type Clusters |
 |![Cell Types](./plots/AD00201_human_celltypes.png)|
+|DDR Gene Expression |
 |![DDR Expression](./plots/AD00201_human_genes.png)|
 
 ## Methods & Pipeline
