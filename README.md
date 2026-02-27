@@ -9,7 +9,7 @@ We map cell-type-specific genomic stress across major neural populations includi
 ## Visualizations
 | Cell Type Clusters | DDR Gene Expression |
 |---|---|
-| ![Cell Types](./plots/AD00201_human_celltypes.jpg) | ![DDR Expression](./plots/AD00201_human_human.jpg) |
+|![Cell Types](./plots/AD00201_human_celltypes.png)|![DDR Expression](./plots/AD00201_human_human.png)|
 
 ## Methods & Pipeline
 * **Hybrid Bridge:** Uses `rpy2` to bridge Seurat (R) and Pandas (Python) for seamless data transition.
